@@ -12,5 +12,5 @@
   hue: "var(--c-themeHueGreen)"
 - title: "Datasets"
   url: datasets.html
-  icon: /assets/icons/datasets.svg
+  icon: /assets/img/icons/datasets.svg
   hue: "var(--c-themeHueOrange)"
