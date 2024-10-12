@@ -1,0 +1,16 @@
+- title: "About Me"
+  url: about.html
+  icon: /assets/icons/about.svg
+  hue: "var(--c-themeHueRed)"
+- title: "Publications"
+  url: publications.html
+  icon: /assets/icons/publications.svg
+  hue: "var(--c-themeHueBlue)"
+- title: "Codes"
+  url: codes.html
+  icon: /assets/icons/codes.svg
+  hue: "var(--c-themeHueGreen)"
+- title: "Datasets"
+  url: datasets.html
+  icon: /assets/icons/datasets.svg
+  hue: "var(--c-themeHueOrange)"
