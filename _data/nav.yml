@@ -8,7 +8,7 @@
   hue: "var(--c-themeHueBlue)"
 - title: "Codes"
   url: codes.html
-  icon: /assets/icons/codes.svg
+  icon: /assets/img/icons/codes.svg
   hue: "var(--c-themeHueGreen)"
 - title: "Datasets"
   url: datasets.html
