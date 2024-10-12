@@ -4,7 +4,7 @@
   hue: "var(--c-themeHueRed)"
 - title: "Publications"
   url: publications.html
-  icon: /assets/icons/publications.svg
+  icon: /assets/img/icons/publications.svg
   hue: "var(--c-themeHueBlue)"
 - title: "Codes"
   url: codes.html
