@@ -1,6 +1,6 @@
 - title: "About Me"
   url: about.html
-  icon: /assets/icons/about_me.svg
+  icon: /assets/icons/img/about_me.svg
   hue: "var(--c-themeHueRed)"
 - title: "Publications"
   url: publications.html
