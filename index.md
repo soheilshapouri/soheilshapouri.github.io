@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome to My Site
+title: Soheil Shapouri
 ---
 
 # Welcome to My Minimal Website
