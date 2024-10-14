@@ -9,13 +9,18 @@ I'm Soheil Shapouri, an evolutionary and cross-cultural psychologist with a pass
 
 <div style="text-align: left;">
 
-  ## Research Interests
-  - Ecological threats
-  - Cross-cultural psychology 
-  - Evolutionary psychology
+  <h2>Research Interests</h2>
+  <ul>
+    <li>Ecological threats</li>
+    <li>Cross-cultural psychology</li>
+    <li>Evolutionary psychology</li>
+  </ul>
 
-  ## Teaching Interests 
-  - Statistics
-  - Research Methods
-</div> 
+  <h2>Teaching Interests</h2>
+  <ul>
+    <li>Statistics</li>
+    <li>Research Methods</li>
+  </ul>
+  
+</div>
 
