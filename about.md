@@ -5,7 +5,7 @@ title: About Me
 
 # About Me
 
-How do natural disasters, epidemics, and other environmental threats affect national cultures, social behavior, and emotional experiences? Using stat, ML, and NLP, I try to answer this question from the lens of evolutionary and cross-cultural psychology.
+I'm Soheil Shapouri, an evolutionary and cross-cultural psychologist with a passion for understanding how ecological threats shape cultures and influence emotions and social behaviors. My true love, however, is exploring new statistical techniques. Lately, I've been diving into phylogenetic trees within a Bayesian framework and tackling the challenge of non-independent data points using mixed-effects random forests. I aim to bridge the gap between theory-driven psychology and data-driven computer science.
 
 Research Interests:
 - Ecological threats
