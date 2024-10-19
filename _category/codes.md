@@ -1,6 +1,6 @@
 ---
-category: [codes] #Category ID.
-hue: var(--c-themeHueOrange) #Category hue. See note [1].
-title: Codes. 
-description: Python and R codes.
+category: [codes] 
+hue: var(--c-themeHueOrange) 
+title: Codes 
+description: Python and R codes
 ---
