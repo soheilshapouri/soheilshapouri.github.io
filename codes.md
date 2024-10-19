@@ -3,4 +3,4 @@ layout: page
 title: Codes
 ---
 
-Will be linked to R and Python codes 
+This page Will contain linked to posts with R and Python codes 
