@@ -7,6 +7,6 @@ Explore the datasets used in my research and teaching, spanning areas like natur
 ## My datasets
 
 ### Ecological Threats and Collectivism
-include number of natural disasters and epidemics and their casulaities along with GDP and collectivism scores of 188 countires 
-- Link: 
-- Publication: 
+includes number of natural disasters and epidemics, deaths caused by disasters and epidemics, GDP per capita, world regions, and collectivism scores for 188 countires 
+- Link: [Dataset] (https://github.com/soheilshapouri/epidemics_collectivism/blob/main/Data%20S2.csv)
+- Publication: Shapouri, S., Rafiee, Y. (in press). Cultural Systems and Ecological Threats: Epidemics and Natural Disasters Do Not Predict Collectivism. Human Nature. https://dx.doi.org/10.2139/ssrn.4113386
