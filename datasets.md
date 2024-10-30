@@ -6,8 +6,8 @@ Explore the datasets used in my research and teaching, spanning areas like natur
 
 ## My datasets  
   
-<div style="text-align: left;">    
-  
+<div style="text-align: left; margin-left: 0; margin-right: auto;">
+     
 ### Ecological Threats and Collectivism    
 includes number of natural disasters and epidemics, deaths caused by disasters and epidemics, GDP per capita, world regions, and collectivism scores for 188 countires     
 - Link: [Dataset] (https://github.com/soheilshapouri/epidemics_collectivism/blob/main/Data%20S2.csv)    
