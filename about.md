@@ -14,6 +14,7 @@ I'm Soheil Shapouri, an evolutionary and cross-cultural psychologist with a pass
     <li>Ecological threats</li>
     <li>Cross-cultural psychology</li>
     <li>Evolutionary psychology</li>
+    <li>Multidiciplinary research</li>
   </ul>
 
   <h2>Teaching Interests</h2>
