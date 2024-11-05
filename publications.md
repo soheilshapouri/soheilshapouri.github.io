@@ -5,7 +5,9 @@ title: Publications
 
 # Peer-Reviewed Publications
 
-Shapouri, S., Rafiee, Y. (in press). Cultural Systems and Ecological Threats: Epidemics and Natural Disasters Do Not Predict Collectivism. *Human Nature*. https://dx.doi.org/10.2139/ssrn.4113386
+Shapouri, S., Soleymani, S., & Rezayi, S. (in press). Floods of Techniques and Drought of Theories: Emotion Mining in Disasters. *Journal of Computational Social Sciences*. https://doi.org/10.48550/arXiv.2407.05219
+
+Shapouri, S., & Rafiee, Y. (in press). Cultural Systems and Ecological Threats: Epidemics and Natural Disasters Do Not Predict Collectivism. *Human Nature*. https://dx.doi.org/10.2139/ssrn.4113386
 
 Shapouri, S., Martin, L. L., & Arhami, O. (2023). Affective Responses to Natural and Technological Disasters; An Evolutionary Perspective. *Adaptive Human Behavior and Physiology*, 1-15. https://doi.org/10.1007/s40750-023-00224-z
 
@@ -17,8 +19,6 @@ Shapouri, S., & Martin, L. L. (2021). Snakes vs. Guns: A Systematic Review of Co
 
 # Manuscripts Under Review and Working Papers
 
-Shapouri, S., Soleymani, S., Rezayi, S. (2024). Floods of Techniques and Drought of Theories: Emotion Mining in Disasters. [Manuscript re-submitted after minor revision to the *Journal of Computational Social Sciences*]. https://doi.org/10.48550/arXiv.2407.05219
-
-Soleymani, S., Xia, Y., Bozorgi, E., Shapouri, S., Kochut, K. (2024). Evaluating Interpretability of Text Classifiers by Expert Domain Knowledge and Large Language Models. [Manuscript in preparation.]
+Soleymani, S., Xia, Y., Bozorgi, E., Shapouri, S., & Kochut, K. (2024). Evaluating Interpretability of Text Classifiers by Expert Domain Knowledge and Large Language Models. [Manuscript in preparation.]
 
 Voghoei, S., Byars, J. M., King, S. J., Shapouri, S., Yaghoobian, H., Rasheed, K. M., & Arabnia, H. R. (2023). Students Success Modeling: A Machine Learning Approach. *arXiv preprint*. https://arxiv.org/abs/2309.13052
