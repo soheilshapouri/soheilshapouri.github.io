@@ -19,7 +19,7 @@ _This post will be updated periodically as I discover new gems._
 - [Open Psychometrics Raw Data](https://openpsychometrics.org/_rawdata/): Datasets for personality and psychology research.
 
 ### Sample Size Determination and Power Analysis
-- Brysbaert, M. (2019). *How many participants do we have to include in properly powered experiments? A tutorial of power analysis with reference tables*. Journal of Cognition, 2(1). [Access here](https://doi.org/10.5334/joc.72).
+- Brysbaert, M. (2019). How many participants do we have to include in properly powered experiments? A tutorial of power analysis with reference tables. *Journal of Cognition, 2*(1). [Access here](https://doi.org/10.5334/joc.72).
 
 ### Random Variables and Probability Distributions
 - [YouTube Playlist: Random Variables and Probability Distributions](https://www.youtube.com/playlist?list=PLSQl0a2vh4HCLjAoORNwUJLWi5ovMjbax): A series covering foundational topics in probability.
