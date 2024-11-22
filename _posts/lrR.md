@@ -5,4 +5,60 @@ date: 2024-11-22
 category: [codes]
 excerpt: "Decoding the odds, one logit at a time."
 ---
-If you have binary response (e.g., Natural vs. Technological) logistic regression can be a good choice for modeling. But remember two things: For resppnses with more than two categories, you can use multinomial logistic regression but it does not give you reliable estimates and its too many assumptions might be difficult to check. Moreover, make sure the response is actually binanry not continious as dichotomizing continious variables is a problematic practice. 
+If you have binary response (e.g., Natural vs. Technological) logistic regression can be a good choice for modeling. But remember two things: For resppnses with more than two categories, you can use multinomial logistic regression but it does not give you reliable estimates and its too many assumptions might be difficult to check. Moreover, make sure the response is actually binanry not continious as dichotomizing continious variables is a problematic practice.  
+Now We want to predcit Natural and Technological categories of stimuli using Valence and Arousal.  
+```r
+threats <- read.csv("https://raw.githubusercontent.com/soheilshapouri/affect_disasters/main/Data%20S2.csv")
+threats <- threats[,c("Valence_Scaled", "Arousal_Scaled", "DisasterGroup")]
+colnames(threats) <- c("Valence", "Arousal", "DisasterGroup")
+threats$DisasterGroup <- as.factor(threats$DisasterGroup)
+```
+Before moving forward, I would check the response as unequal categories of response can be an issue. 
+```r
+table(threats$DisasterGroup)
+```
+imbalance classes of outcomes tells me I should use strtified sampling instead of simple random sampling to assute that they have same proportions in train-test splits as original data. (alternatively I can sample in a way that natural and technological stimuli have same proprtions). 
+```r
+threats_split <- initial_split(threats, prop = .8, strata = DisasterGroup)
+threats_train <- training(threats_split)
+threats_test <- testing(threats_split)
+```
+Start with a simple logistic regression 
+```r
+model1 <- glm(DisasterGroup ~ Valence, family = "binomial", data = threats_train)
+levels(threats_train$DisasterGroup)
+exp(coef(model1))
+```
+The significant coefficinet and natural being the reference category (so technological as modeling category) say there is a negative relationship betwen valence and being technological. As stimuli become more pleasant it is less lekiely to belong to technological category. changing the logit scale, For a 1-unit increase in Valence, the odds of being in the "Technological" group (relative to "Natural") decrease by a factor of 0.0002. The relationship can be shown by the graph below. 
+```r
+# Load necessary libraries
+library(ggplot2)
+
+# Create a sequence of Valence values for prediction
+valence_seq <- seq(min(threats_train$Valence), max(threats_train$Valence), length.out = 100)
+
+# Create a data frame for predictions
+prediction_data <- data.frame(Valence = valence_seq)
+
+# Predict probabilities using model1
+prediction_data$Probability <- predict(model1, newdata = prediction_data, type = "response")
+
+# Plot the predicted probabilities
+ggplot(data = threats_train, aes(x = Valence, y = as.numeric(DisasterGroup == "Technological"))) +
+  geom_jitter(height = 0.02, alpha = 0.3) +  # Add jittered points for data visualization
+  geom_line(data = prediction_data, aes(x = Valence, y = Probability), color = "blue", size = 1) +  # Prediction line
+  labs(
+    title = "Predicted probabilities for model1",
+    x = "Valence",
+    y = "Probability of Technological Disaster"
+  ) +
+  theme_minimal(base_size = 14) +
+  theme(
+    plot.title = element_text(face = "bold", size = 16, hjust = 0.5),
+    axis.title = element_text(size = 14)
+  )
+```
+
+
+
+
