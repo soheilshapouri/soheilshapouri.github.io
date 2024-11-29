@@ -7,7 +7,7 @@ title: Publications
 
 Shapouri, S., Soleymani, S., & Rezayi, S. (in press). Floods of Techniques and Drought of Theories: Emotion Mining in Disasters. *Journal of Computational Social Sciences*. https://doi.org/10.48550/arXiv.2407.05219
 
-Shapouri, S., & Rafiee, Y. (in press). Cultural Systems and Ecological Threats: Epidemics and Natural Disasters Do Not Predict Collectivism. *Human Nature*. https://dx.doi.org/10.2139/ssrn.4113386
+Shapouri, S., & Rafiee, Y. (2024). Cultural Systems and Ecological Threats: Epidemics and Natural Disasters Do Not Predict Collectivism. *Human Nature*. https://doi.org/10.1007/s12110-024-09480-8
 
 Shapouri, S., Martin, L. L., & Arhami, O. (2023). Affective Responses to Natural and Technological Disasters; An Evolutionary Perspective. *Adaptive Human Behavior and Physiology*, 1-15. https://doi.org/10.1007/s40750-023-00224-z
 
