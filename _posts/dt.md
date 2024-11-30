@@ -39,4 +39,4 @@ The output shows GDP is the first variable resulting in the largest reduction of
 library(rpart.plot)
 rpart.plot(eco_dt1)
 ```
-![Decision Tree](https://raw.githubusercontent.com/soheilshapouri/soheilshapouri.github.io/master/_posts/multipleLogisticVisualization.jpg)
+![Decision Tree](https://raw.githubusercontent.com/soheilshapouri/soheilshapouri.github.io/master/_posts/dt1.jpeg)
