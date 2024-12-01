@@ -40,3 +40,15 @@ library(rpart.plot)
 rpart.plot(eco_dt1)
 ```
 ![Decision Tree](https://raw.githubusercontent.com/soheilshapouri/soheilshapouri.github.io/master/_posts/dt1.jpeg)
+
+As always better to train decision trees with caret package to do cross-validation. The hyperparameter that should be considered above is Complexity Parameter (cp). Tune Length = 20 means 20 different values will be considered for cp. 
+```r
+eco_dt2 <- train(
+  GCI ~ No_Epidemics + No_Disasters + Death_Epidemics + Death_Disasters + Mortality_Epidemics + Mortality_Disasters + GDP + Region,
+  data = ecodata_train,
+  method = "rpart",
+  trControl = trainControl(method = "cv", number = 10, savePredictions = "all"),
+  tuneLength = 20
+)
+```
+You get the warning message that "There were missing values in resampled performance measures" as in some categories of Region like North America there are not enough data fro providing evaluation metrics. 
