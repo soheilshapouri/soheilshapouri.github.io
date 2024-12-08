@@ -52,9 +52,11 @@ eco_rf2 <- ranger(
   importance = "permutation"
 )
 sort(eco_rf2$variable.importance, decreasing = TRUE)
-
 ```
+    GDP       Region     No_Epidemics No_Disasters 
+  0.34169841   0.27570329   0.07478437   0.02804642 
 
+   
 
 
 
