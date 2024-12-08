@@ -26,6 +26,7 @@ Three things to consider before training random forests:
 
 ```r
 library(ranger)
+n_features <- (length((setdiff(names(ecodata), "GCI"))))
 eco_rf1 <- ranger(
   GCI ~ ., 
   data = eco_train,
@@ -37,6 +38,21 @@ eco_rf1 <- ranger(
 # Model Evaluation
 ```r
 (rmse <- sqrt(eco_rf1$prediction.error))
+```
+# Feature Importance 
+Impurity-based feature importance in Random Forest (via ranger) measures how much each feature reduces impurity (e.g., Gini or variance) across all splits in all trees, but it can be biased toward high-cardinality features. Permutation-based feature importance, on the other hand, evaluates importance by shuffling feature values and measuring the decrease in model performance (e.g., RMSE) on out-of-bag samples, providing an unbiased assessment.
+ranger uses impurity by defualt.
+```r
+eco_rf2 <- ranger(
+  GCI ~ .,
+  data = eco_train, 
+  mtry = floor(n_features/3),
+  respect.unordered.factors = 'order',
+  seed = 123, 
+  importance = "permutation"
+)
+sort(eco_rf2$variable.importance, decreasing = TRUE)
+
 ```
 
 
