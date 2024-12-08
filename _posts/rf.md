@@ -20,4 +20,31 @@ eco_train <- training(eco_split)
 eco_test <- testing(eco_split)
 ```
 Three things to consider before training random forests:
-- First: mtry, number of variables at each split is set to p / 3 for regression problems and 
+- First: mtry, number of variables at each split is set to p / 3 for regression problems and sqrt(p) for classification problems, where p is the number of predictors.
+- Second: set respect.unordered.factors as "order" when categorical variables have a lot of levels (high cardinality) or you are concerned about overfitting, do not have enough computational power, but set respect.unordered.factors as "ignore" if categorical variables have only a few levels or you want to aim for high predictive accuracy.
+- Third, Unlike many other ML procedure, set seed inside the training code.
+
+```r
+library(ranger)
+eco_rf1 <- ranger(
+  GCI ~ ., 
+  data = eco_train,
+  mtry = floor(n_features/3),
+  respect.unordered.factors = "order",
+  seed = 123
+)
+```
+# Model Evaluation
+```r
+(rmse <- sqrt(eco_rf1$prediction.error))
+```
+
+
+
+
+
+
+
+
+
+
