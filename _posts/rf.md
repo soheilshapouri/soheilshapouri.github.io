@@ -70,7 +70,28 @@ eco_rf3 <- train(
 summary(eco_rf3$resample)
 ```
 tuneLength will set the number of values being checked for mtry. Also, the model above shows below metrics:
-RMSE Mean: 0.4754     Rsquared Mean: 0.6065
+RMSE Mean: 0.4754     Rsquared Mean: 0.6065  
+
+let's add Region to see how much it improves the model:
+```r
+ecodata <- read.csv("https://raw.githubusercontent.com/soheilshapouri/epidemics_collectivism/main/Data%20S2.csv")
+ecodata <- ecodata[c("No_Epidemics", "No_Disasters", "GDP", "Region", "GCI")]
+eco_split <- initial_split(ecodata, prop = 0.7, strata = "GCI")
+eco_train <- training(eco_split)
+eco_test <- testing(eco_split)
+eco_rf4 <- train(
+  GCI ~ .,
+  data = eco_train,
+  method = "ranger",
+  trControl = trainControl(method = "cv", number = 10),
+  tuneLength = 4
+)
+summary(eco_rf4$resample)
+```
+RMSE Mean   :0.3667     Rsquared Mean   :0.8005
+So, adding region drastically imporve the model. What is more intersting is that I compare these random forests with mixed-effect regression. Random forests were much better than mixed-effect regression with Region as random intercept. 
+
+Sources: Hands-On Machine Learning with R, ChatGPT
 
 
    
