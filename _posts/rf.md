@@ -58,8 +58,20 @@ Varibale importance can also be visualized:
 ```r
 vip::vip(eco_rf2)
 ```
+Tune hyperparameters of random forests with caret cross-validation
+```r
+eco_rf3 <- train(
+  GCI ~ .,
+  data = eco_train,
+  method = "ranger",
+  trControl = trainControl(method = "cv", number = 10),
+  tuneLength = 3
+)
+summary(eco_rf3$resample)
+```
+tuneLength will set the number of values being checked for mtry. Also, the model above shows below metrics:
+RMSE Mean: 0.4754     Rsquared Mean: 0.6065
 
-  
 
    
 
