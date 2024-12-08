@@ -53,8 +53,13 @@ eco_rf2 <- ranger(
 )
 sort(eco_rf2$variable.importance, decreasing = TRUE)
 ```
-    GDP       Region     No_Epidemics No_Disasters 
-  0.34169841   0.27570329   0.07478437   0.02804642 
+GDP 0.34   Region 0.28   No_Epidemics 0.07 No_Disasters 0.03  
+Varibale importance can also be visualized:
+```r
+vip::vip(eco_rf2)
+```
+
+  
 
    
 
