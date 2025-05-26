@@ -30,3 +30,9 @@ Explore the datasets used in my research and teaching, spanning areas like natur
 ## other datasets
 <h3>Disaster-related news headlines</h3>
 <p>Includes more than 7000 news headlines related to natural and technological disasters along with AI-generated number of poeple killed and valence ratings.</p>
+
+ <ul>
+    <li><strong>API used</strong>: thenewsapi.com; OpenAI API</li>
+    <li><strong>Link</strong>: <a href="https://github.com/soheilshapouri/dimensional-emotion-mining-disaster-news/blob/main/news_merged2_v2.csv">Dataset</a></li>
+    <li><strong>Publication</strong>: Shapouri, S., Rafiee, Y. (in press). Cultural Systems and Ecological Threats: Epidemics and Natural Disasters Do Not Predict Collectivism. <em>Human Nature</em>. <a href="https://dx.doi.org/10.2139/ssrn.4113386">https://dx.doi.org/10.2139/ssrn.4113386</a></li>
+  </ul>
