@@ -28,6 +28,7 @@ Explore the datasets used in my research and teaching, spanning areas like natur
 </div>
   
 ## other datasets
+<div style="text-align: left; margin-left: 0; margin-right: auto;">
 <h3>Disaster-related news headlines</h3>
 <p>Includes more than 7000 news headlines related to natural and technological disasters along with AI-generated number of poeple killed and valence ratings.</p>
 
