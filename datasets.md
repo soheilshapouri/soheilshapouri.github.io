@@ -4,7 +4,7 @@ title: Datasets
 ---
 Explore the datasets used in my research and teaching, spanning areas like natural disasters, technological catasrophes, and epidemics.
 
-## My datasets  
+## featured datasets  
   
 <div style="text-align: left; margin-left: 0; margin-right: auto;">
 
@@ -26,3 +26,7 @@ Explore the datasets used in my research and teaching, spanning areas like natur
     <li><strong>Publication</strong>: Shapouri, S., Martin, L. L., & Arhami, O. (2023). Affective Responses to Natural and Technological Disasters; An Evolutionary Perspective. <em>Adaptive Human Behavior and Physiology</em>. <a href="https://doi.org/10.1007/s40750-023-00224-z">https://doi.org/10.1007/s40750-023-00224-z</a></li>
 </ul>
 </div>
+  
+## other datasets
+<h3>Disaster-related news headlines</h3>
+<p>Includes more than 7000 news headlines related to natural and technological disasters along with AI-generated number of poeple killed and valence ratings.</p>
