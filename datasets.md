@@ -35,5 +35,5 @@ Explore the datasets used in my research and teaching, spanning areas like natur
  <ul>
     <li><strong>API used</strong>: thenewsapi.com; OpenAI API</li>
     <li><strong>Link</strong>: <a href="https://github.com/soheilshapouri/dimensional-emotion-mining-disaster-news/blob/main/news_merged2_v2.csv">Dataset</a></li>
-    <li><strong>Blog post</strong>: Dimensional Emotion Mining of Disaster-related News Headlines >https://soheilshapouri.github.io/codes/datasets/2025/05/26/DEMDN.html</a></li>
+    <li><strong>Blog post</strong>: Dimensional Emotion Mining of Disaster-related News Headlines https://soheilshapouri.github.io/codes/datasets/2025/05/26/DEMDN.html</a></li>
   </ul>
