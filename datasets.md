@@ -30,7 +30,7 @@ Explore the datasets used in my research and teaching, spanning areas like natur
 ## other datasets
 <div style="text-align: left; margin-left: 0; margin-right: auto;">
 <h3>Disaster-related news headlines</h3>
-<p>Includes more than 7000 news headlines related to natural and technological disasters along with AI-generated number of poeple killed and valence ratings.</p>
+<p>Includes more than 7000 news headlines related to natural and technological disasters along with AI-generated number of people killed and valence ratings.</p>
 
  <ul>
     <li><strong>API used</strong>: thenewsapi.com; OpenAI API</li>
@@ -39,9 +39,10 @@ Explore the datasets used in my research and teaching, spanning areas like natur
  </ul>
 
 <h3>Hurricane papers on PubMed</h3>
-<p>Metadata of 6494 papers realted to hurricanes including titles, authors and their affiliations, journals, DOIs plus AI-generated topics and one-line summaries.</p>
+<p>Metadata of 6494 papers related to hurricanes including titles, authors and their affiliations, journals, DOIs plus AI-generated topics and one-line summaries.</p>
 
  <ul>
     <li><strong>API used</strong>: NIH NCBI's API; OpenAI API</li>
     <li><strong>Link</strong>: <a href="https://github.com/soheilshapouri/disaster_literature/blob/main/pubmed_hurricane_GPT.csv">Dataset</a></li>
  </ul>
+</div>
