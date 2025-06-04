@@ -36,6 +36,7 @@ Explore the datasets used in my research and teaching, spanning areas like natur
     <li><strong>API used</strong>: thenewsapi.com; OpenAI API</li>
     <li><strong>Link</strong>: <a href="https://github.com/soheilshapouri/dimensional-emotion-mining-disaster-news/blob/main/news_merged2_v2.csv">Dataset</a></li>
 <li><strong>Blog post</strong>: <a href="https://soheilshapouri.github.io/codes/datasets/2025/05/26/DEMDN.html">Dimensional Emotion Mining of Disaster-related News Headlines</a></li>
+ </ul>
 
 <h3>Hurricane papers on PubMed</h3>
 <p>Metadata of 6494 papers realted to hurricanes including titles, authors and their affiliations, journals, DOIs plus AI-generated topics and one-line summaries.</p>
@@ -43,4 +44,4 @@ Explore the datasets used in my research and teaching, spanning areas like natur
  <ul>
     <li><strong>API used</strong>: NIH NCBI's API; OpenAI API</li>
     <li><strong>Link</strong>: <a href="https://github.com/soheilshapouri/disaster_literature/blob/main/pubmed_hurricane_GPT.csv">Dataset</a></li>
-
+ </ul>
