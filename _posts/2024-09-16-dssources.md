@@ -10,6 +10,9 @@ Resources for data science are anything but scarce. However, finding concise, to
 _This post will be updated periodically as I discover new gems._
 
 ---
+### Statistics Papers  
+Cinelli, C., Forney, A., & Pearl, J. (2024). A crash course in good and bad controls. Sociological Methods & Research, 53(3), 1071-1104.
+
 ### Machine learning 
 Lantz, B. (2013). Machine learning with R: learn how to use R to apply powerful machine learning methods and gain an insight into real-world applications.  
 A great source to start with. Its explanation , for example about KNN, are very easy to understand. 
