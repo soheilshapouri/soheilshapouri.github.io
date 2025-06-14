@@ -13,8 +13,9 @@ _This post will be updated periodically as I discover new gems._
 ### Statistics Papers  
 Cinelli, C., Forney, A., & Pearl, J. (2024). A crash course in good and bad controls. Sociological Methods & Research, 53(3), 1071-1104.  
 
-Shmueli, G. (2010). To explain or to predict?.
+Shmueli, G. (2010). To explain or to predict?.  
 
+Breiman, L. (2001). Statistical modeling: The two cultures (with comments and a rejoinder by the author). Statistical science, 16(3), 199-231.
 
 ### Machine learning 
 Lantz, B. (2013). Machine learning with R: learn how to use R to apply powerful machine learning methods and gain an insight into real-world applications.  
