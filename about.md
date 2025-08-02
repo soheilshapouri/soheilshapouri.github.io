@@ -5,7 +5,7 @@ title: About Me
 
 # About Me
 
-I'm Soheil Shapouri, an evolutionary and cross-cultural psychologist with a passion for understanding how ecological threats shape cultures and influence emotions and social behaviors. My true love, however, is exploring new statistical techniques. Lately, I've been diving into the challenge of non-independent data points using machine learning, Bayesian, and frequentist appraoches. In long term, I aim to bridge the gap between theory-driven psychology and data-driven computer science.
+I'm Soheil Shapouri a postdoctoral fellow at UCLA with a passion for understanding how ecological threats such as infecious diseases, natural disasters, and technogical catasrophies shape who we are, what we feel, and how we live together. My true love, however, is learning new statistical techniques. In the long term, I aim to bridge the gap between theory-driven social sciences and data-driven computer science.
 
 <div style="text-align: left; margin-left: 0; margin-right: auto;">
 
