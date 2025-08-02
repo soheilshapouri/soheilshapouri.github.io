@@ -5,7 +5,7 @@ date: 2024-09-16
 category: [codes, datasets]
 excerpt: "Resources for data science are anything but scarce. However..."
 ---
-Resources for data science are anything but scarce. However, finding concise, to-the-point, useful, and thought-provoking resources isn’t as common as one might think. Below, I’ve curated a list of resources that I've found succinct, straightforward, practical, and stimulating. The list follows, roughly, the order in which research might be conducted and covers a broad scope of data science topics, from hypothesis testing to NLP and machine learning.
+Resources for data science are anything but scarce. However, finding concise, to-the-point, useful, and thought-provoking resources isn’t as common as one might think. Below, I’ve curated a list of resources that I've found succinct, straightforward, practical, and stimulating. 
 
 _This post will be updated periodically as I discover new gems._
 
