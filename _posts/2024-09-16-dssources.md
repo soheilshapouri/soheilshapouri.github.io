@@ -5,11 +5,20 @@ date: 2024-09-16
 category: [codes, datasets]
 excerpt: "Resources for data science are anything but scarce. However..."
 ---
-Resources for data science are anything but scarce. However, finding concise, to-the-point, useful, and thought-provoking resources isn’t as common as one might think. Below, I’ve curated a list of resources that I find succinct, straightforward, practical, and stimulating. The list follows, roughly, the order in which research might be conducted and covers a broad scope of data science topics, from hypothesis testing to NLP and machine learning.
+Resources for data science are anything but scarce. However, finding concise, to-the-point, useful, and thought-provoking resources isn’t as common as one might think. Below, I’ve curated a list of resources that I've found succinct, straightforward, practical, and stimulating. The list follows, roughly, the order in which research might be conducted and covers a broad scope of data science topics, from hypothesis testing to NLP and machine learning.
 
 _This post will be updated periodically as I discover new gems._
 
 ---
+### Inference vs Prediction 
+Breiman, L. (2001). Statistical modeling: The two cultures. Statistical science, 16(3), 199-231.
+
+Shmueli, G. (2010). To explain or to predict?. Statistical science, 289-310.
+
+Yarkoni, T., & Westfall, J. (2017). Choosing prediction over explanation in psychology: Lessons from machine learning. Perspectives on Psychological Science, 12(6), 1100–1122.
+
+Ij, H. (2018). Statistics versus machine learning. Nature Methods, 15(4), 233.
+
 ### Statistics Papers  
 Cinelli, C., Forney, A., & Pearl, J. (2024). A crash course in good and bad controls. Sociological Methods & Research, 53(3), 1071-1104.  
 
