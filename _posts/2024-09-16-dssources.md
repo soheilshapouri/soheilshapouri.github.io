@@ -54,5 +54,5 @@ A great source to start with. Its explanation , for example about KNN, are very 
 - [UXWing](https://uxwing.com/): Free icons and vector graphics for enhancing data presentations.
 
 ### Statistics Textbooks 
-- Chapman & Hall/CRC Texts in Statistical Science
-  more than one hundred textbook mostly written by statisticians 
+- Chapman & Hall/CRC Texts in Statistical Science  
+  more than one hundred textbooks mostly written by statisticians 
