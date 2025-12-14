@@ -22,9 +22,6 @@ Ij, H. (2018). Statistics versus machine learning. Nature Methods, 15(4), 233.
 ### Statistics Papers  
 Cinelli, C., Forney, A., & Pearl, J. (2024). A crash course in good and bad controls. Sociological Methods & Research, 53(3), 1071-1104.  
 
-Shmueli, G. (2010). To explain or to predict?.  
-
-Breiman, L. (2001). Statistical modeling: The two cultures (with comments and a rejoinder by the author). Statistical science, 16(3), 199-231.
 
 ### Machine learning 
 Lantz, B. (2013). Machine learning with R: learn how to use R to apply powerful machine learning methods and gain an insight into real-world applications.  
@@ -56,3 +53,6 @@ A great source to start with. Its explanation , for example about KNN, are very 
 ### Presenting the Results
 - [UXWing](https://uxwing.com/): Free icons and vector graphics for enhancing data presentations.
 
+### Statistics Textbooks 
+- Chapman & Hall/CRC Texts in Statistical Science
+  more than one hundred textbook mostly written by statisticians 
