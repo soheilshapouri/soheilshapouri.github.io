@@ -55,4 +55,7 @@ A great source to start with. Its explanation , for example about KNN, are very 
 
 ### Statistics Textbooks 
 - Chapman & Hall/CRC Texts in Statistical Science  
-  more than one hundred textbooks mostly written by statisticians 
+  more than one hundred textbooks mostly written by statisticians
+
+### Null Hypothesis Significance Testing 
+- Szucs, D., & Ioannidis, J. P. (2017). When null hypothesis significance testing is unsuitable for research: a reassessment. *Frontiers in human neuroscience, 11*, 390.
