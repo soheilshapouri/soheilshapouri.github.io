@@ -25,9 +25,10 @@ A great, easy-to-understand introduction to Bayesian data analysis. Some calculu
 
 - Daoud, A., & Dubhashi, D. (2023). Statistical modeling: the three cultures. Harvard Data Science Review, 5(1).
 
-### Statistics Papers  
-Cinelli, C., Forney, A., & Pearl, J. (2024). A crash course in good and bad controls. Sociological Methods & Research, 53(3), 1071-1104.  
+### Interesting Statistics Papers  
+Cinelli, C., Forney, A., & Pearl, J. (2024). A crash course in good and bad controls. *Sociological Methods & Research, 53*(3), 1071-1104.  
 
+O’Boyle Jr, E., & Aguinis, H. (2012). The best and the rest: Revisiting the norm of normality of individual performance. *Personnel Psychology, 65*(1), 79-119.  
 
 ### Machine learning 
 Lantz, B. (2013). Machine learning with R: learn how to use R to apply powerful machine learning methods and gain an insight into real-world applications.  
