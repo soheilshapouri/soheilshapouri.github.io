@@ -9,7 +9,11 @@ Resources for data science are anything but scarce. However, finding concise, to
 
 _This post will be updated periodically as I discover new gems._
 
----
+---  
+### Bayesian Statistics  
+Johnson, A. A., Ott, M. Q., & Dogucu, M. (2022). *Bayes rules!: An introduction to applied Bayesian modeling.* Chapman and Hall/CRC.
+A great, easy-to-understand introduction to Bayesian data analysis. Some calculus and probability help, but the book is accessible even without them.   
+
 ### Inference vs Prediction 
 - Breiman, L. (2001). Statistical modeling: The two cultures. Statistical science, 16(3), 199-231.
 
