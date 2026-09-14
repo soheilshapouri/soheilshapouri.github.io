@@ -5,7 +5,7 @@ title: Publications
 
 # Peer-Reviewed Publications
 
-Shapouri, S., Soleymani, S., & Rezayi, S. (in press). Floods of Techniques and Drought of Theories: Emotion Mining in Disasters. *Journal of Computational Social Sciences*. https://doi.org/10.48550/arXiv.2407.05219
+Shapouri, S., Soleymani, S., & Rezayi, S. (2025). Floods of Techniques and Drought of Theories: Emotion Mining in Disasters. *Journal of Computational Social Sciences*, *8*(5). https://doi.org/10.48550/arXiv.2407.05219
 
 Shapouri, S., & Rafiee, Y. (2024). Cultural Systems and Ecological Threats: Epidemics and Natural Disasters Do Not Predict Collectivism. *Human Nature*. https://doi.org/10.1007/s12110-024-09480-8
 
