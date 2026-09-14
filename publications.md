@@ -17,10 +17,10 @@ Shapouri, S., & Martin, L. L. (2021). Snakes vs. Guns: A Systematic Review of Co
 
 ---
 
-# Manuscripts Under Review or in Preparation
+# Preprints and Unpublished Manuscripts
 
-Shapouri, S., Banerjee, S., Silver, R. C., Holman, E. A., Estes, K. D., & Garfin, D. R. (2026). *Hurricane preparedness at the crossroads of objective risk: A machine learning approach* [Preprint]. PsyArXiv. https://doi.org/10.31234/osf.io/m36sy_v1
+Shapouri, S., Banerjee, S., Silver, R. C., Holman, E. A., Estes, K. D., & Garfin, D. R. (2026). *Hurricane preparedness at the crossroads of objective risk: A machine learning approach* [manuscript under review]. PsyArXiv. https://doi.org/10.31234/osf.io/m36sy_v1
 
 Soleymani, S., Xia, Y., Bozorgi, E., Shapouri, S., & Kochut, K. Evaluating Interpretability of Text Classifiers by Expert Domain Knowledge and Large Language Models. [Manuscript in preparation.]
 
-Voghoei, S., Byars, J. M., King, S. J., Shapouri, S., Yaghoobian, H., Rasheed, K. M., & Arabnia, H. R. (2023). Students Success Modeling: A Machine Learning Approach. *arXiv preprint*. https://arxiv.org/abs/2309.13052
+Voghoei, S., Byars, J. M., King, S. J., Shapouri, S., Yaghoobian, H., Rasheed, K. M., & Arabnia, H. R. (2023). Students Success Modeling: Most Important Factors. *arXiv preprint*. https://arxiv.org/abs/2309.13052
