@@ -19,7 +19,9 @@ Shapouri, S., & Martin, L. L. (2021). Snakes vs. Guns: A Systematic Review of Co
 
 # Preprints and Unpublished Manuscripts
 
-Shapouri, S., Banerjee, S., Silver, R. C., Holman, E. A., Estes, K. D., & Garfin, D. R. (2026). *Hurricane preparedness at the crossroads of objective risk: A machine learning approach* [manuscript under review]. PsyArXiv. https://doi.org/10.31234/osf.io/m36sy_v1
+Shapouri, S., Banerjee, S., Silver, R. C., Holman, E. A., Estes, K. D., & Garfin, D. R. (2026). *Hurricane preparedness at the crossroads of objective risk: A machine learning approach* [manuscript under review]. PsyArXiv. https://doi.org/10.31234/osf.io/m36sy_v1  
+
+Shapouri, S., & Soleymani, S. (2026). *A Computational Map of the Disaster Mental Health Research Landscape*. arXiv preprint. https://arxiv.org/abs/2611.10390  
 
 Soleymani, S., Xia, Y., Bozorgi, E., Shapouri, S., & Kochut, K. Evaluating Interpretability of Text Classifiers by Expert Domain Knowledge and Large Language Models. [Manuscript in preparation.]
 
