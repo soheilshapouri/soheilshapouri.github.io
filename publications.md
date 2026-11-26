@@ -23,6 +23,4 @@ Shapouri, S., Banerjee, S., Silver, R. C., Holman, E. A., Estes, K. D., & Garfin
 
 Shapouri, S., & Soleymani, S. (2026). *A Computational Map of the Disaster Mental Health Research Landscape*. arXiv preprint. https://arxiv.org/abs/2611.10390  
 
-Soleymani, S., Xia, Y., Bozorgi, E., Shapouri, S., & Kochut, K. Evaluating Interpretability of Text Classifiers by Expert Domain Knowledge and Large Language Models. [Manuscript in preparation.]
-
 Voghoei, S., Byars, J. M., King, S. J., Shapouri, S., Yaghoobian, H., Rasheed, K. M., & Arabnia, H. R. (2023). Students Success Modeling: Most Important Factors. *arXiv preprint*. https://arxiv.org/abs/2309.13052
